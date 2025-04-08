@@ -1,0 +1,11 @@
+2025-04-08 05:54:04 INFO  TC01_AccountRegistrationTest:23 - Starting tetscase *****
+2025-04-08 05:54:04 INFO  TC01_AccountRegistrationTest:26 - clicked on My account link***
+2025-04-08 05:54:06 INFO  TC01_AccountRegistrationTest:31 - clicked on registered link****
+2025-04-08 05:54:06 INFO  TC01_AccountRegistrationTest:34 - Entering the customer details***
+2025-04-08 05:54:09 INFO  TC01_AccountRegistrationTest:45 - Validating the message*****
+2025-04-08 05:54:09 INFO  TC01_AccountRegistrationTest:50 - Test passed****
+2025-04-08 05:54:09 INFO  TC01_AccountRegistrationTest:59 - ***Finished testing
+2025-04-08 05:54:18 INFO  TC02_LoginTest:17 - Logging in******
+2025-04-08 05:54:19 INFO  TC02_LoginTest:24 - Logging the page***
+2025-04-08 05:54:21 INFO  TC02_LoginTest:29 - My account page*****
+2025-04-08 05:54:21 INFO  TC02_LoginTest:40 - Login test finished****
